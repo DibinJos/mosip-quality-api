@@ -1,6 +1,8 @@
-setuptools==68.0.0
-Flask==2.3.3
-numpy==1.24.3
-opencv-python==4.8.0.74
-Werkzeug==2.3.7
-gunicorn==21.2.0
+# Replace your requirements.txt with:
+Flask==3.0.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+gunicorn==23.0.0
+
+# Update runtime.txt to:
+python-3.11.10
